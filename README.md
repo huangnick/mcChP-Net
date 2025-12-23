@@ -13,3 +13,6 @@ The training data set included 51 participants, pseudorandomly selected from bot
 The mcChP-Net can be easily used in the nnU-Net environment. Please check https://github.com/MIC-DKFZ/nnUNet for detailed instructions. The trained model can be downloaded from (https://1drv.ms/f/c/36bb922ed9e9f74e/IgAxTOKUFiQPT6OQ4muGVJOrAQ8bLvjU3vauuLpT0P1_5cg?e=Ev2WtF). 
 The T1 and FLIAR images of the same subject should be coregistered first. The first input modality is FLAIR, and the second is T1.
 Email: huangpy@zju.edu.cn
+
+# Method reference
+Lin M, Zeng Q, Zhong S, Nie S, Zhang R, Hong H, Liu L, Wang S, Li K, Luo X, Chen Y. Association between choroid plexus morphological alterations, Alzheimer pathologies, and cognitive impairment: a longitudinal study. Neurology. 2025 Dec 23;105(12):e213953.
